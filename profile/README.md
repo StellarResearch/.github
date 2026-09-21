@@ -1,4 +1,4 @@
-# FLATLINED
+# Stellar Research
 
 **Open-source security research, network privacy instrumentation, and verifiable systems engineering.**
 
